@@ -1,1 +1,1 @@
-# react-native-church-theme1
+# ionic-mobile-church-theme1
